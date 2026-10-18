@@ -1,9 +1,9 @@
 # Portfolio_Dijkstra
 
-Repositório criado com o objetivo de armazenar o código utilizado no trabalho de comunicação e redes na Universidade Federal do ABC.
+This repository was created to store the code used for the Communication and Networks course project at the Federal University of ABC (UFABC).
 
-O projeto tem como objetivo acompanhar o desempenho de dois portfólios A e B por um intervalo de tempo de 3 anos, avaliando seu desempenho e assim o ganho e/ou perca de acionistas se baseando na Teoria do portfólio que afirma que: Se os investidores são racionais, aversos à riscos e buscam o maior retorno, a escolha de investimento deles será norteada por essa premissa.
+The project aims to track the performance of two portfolios, A and B, over a three-year period, evaluating their returns and the resulting gains and/or losses for shareholders. It is based on portfolio theory, which assumes that rational, risk-averse investors seeking the highest returns will make investment decisions guided by these principles.
 
-O código deste repositório parte da criação de grafos a partir de um planilha do excel que possui os nós, suas ligações e pesos. Assim, criando o grafo original e logo após o grafo de caminhos minimos (baseado no algoritmo de Dijkstra) para seleção de 10 ações para cada.
+The code in this repository generates graphs from an Excel spreadsheet containing nodes, connections, and weights. It first creates the original graph and then a shortest-path graph using Dijkstra’s algorithm, selecting 10 stocks for each portfolio.
 
-Os fins do trabalho e código são puramente destinados ao estudo da disciplina de Comunicação e redes, além do estudo pararelo de finanças e influencia no comportamento de redes sociais.
+The project and its code are intended solely for academic study within the Communication and Networks course, alongside complementary studies of finance and its influence on social network behavior.
